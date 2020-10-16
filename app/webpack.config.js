@@ -24,8 +24,8 @@ module.exports = {
 
   plugins: [
     new ModuleFederationPlugin({
-      name: "first",
-      library: { type: "var", name: "first" },
+      name: "app",
+      library: { type: "var", name: "app" },
       filename: "main.js",
       remotes: {
         vendor: "vendor",
