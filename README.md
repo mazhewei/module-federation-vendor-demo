@@ -24,7 +24,7 @@ cd vendor
 
 npm run i & npm run serve
 
-依赖工程会运行在http://localhost:8888/下。
+依赖工程会运行在http://localhost:8888/ 下。
 
 另起一个终端，执行
 
@@ -32,9 +32,9 @@ cd app
 
 npm run i & npm run serve
 
-应用工程会运行在http://localhost:8080/下
+应用工程会运行在http://localhost:8080/ 下
 
-打开浏览器，访问http://localhost:8080/，观察是否输出hello app.
+打开浏览器，访问http://localhost:8080/ ，观察是否输出hello app.
 
 ## 如何自己搭建
 
