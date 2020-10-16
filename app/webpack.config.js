@@ -28,7 +28,7 @@ module.exports = {
       library: { type: "var", name: "first" },
       filename: "main.js",
       remotes: {
-        vendor: "vendor@http://localhost:8888/remoteVendor.js",
+        vendor: "vendor",
       },
       exposes: {
         
